@@ -1,3 +1,7 @@
+<!-- Love Anime -->
+<p align="center">
+  <img src=".GitHub/logo/logo.jpgg">
+</p>
 # Love-Anime
 #
 # Welcome to my Account 🙂

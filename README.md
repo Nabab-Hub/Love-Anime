@@ -4,7 +4,7 @@
   <img src=".GitHub/logo/logo.jpg">
 </p></BR>
 <p align="center">
-  <video  width="320" height="240" controls>
+  <video  controls>
   <source src=".GitHub/logo/logo.mp4" type="video/mp4">
 </video>
 </p>
